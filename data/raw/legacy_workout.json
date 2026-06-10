@@ -1,0 +1,3706 @@
+{
+  "2025-05-15": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 30,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 30,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 10,
+        "reps": 12,
+        "rest": 2
+      },
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": 2
+      },
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": null
+      }
+    ],
+    "Leg Extensions": [
+      {
+        "weight": 10,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 20,
+        "reps": 15,
+        "rest": null
+      }
+    ],
+    "Plank": [
+      {
+        "duration_sec": 30,
+        "rest": 2
+      },
+      {
+        "duration_sec": 30,
+        "rest": 2
+      },
+      {
+        "duration_sec": 30,
+        "rest": null
+      }
+    ]
+  },
+  "2025-05-18": {
+    "Deadlift": [
+      {
+        "weight": 20,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Bent-Over Row": [
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Seated Dumbbell Press": [
+      {
+        "weight": 6,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 10,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 10,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 10,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Dumbbell Flys": [
+      {
+        "weight": 6,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 10,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 10,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 10,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Pull-Ups": [
+      {
+        "weight": null,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 5,
+        "rest": null
+      }
+    ]
+  },
+  "2025-05-22": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 30,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 30,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 25,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 30,
+        "reps": 15,
+        "rest": null
+      }
+    ],
+    "Leg Extensions": [
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": null
+      }
+    ],
+    "Calf Raises": [
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": 2
+      },
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": null
+      }
+    ]
+  },
+  "2025-05-27": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 12,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 12,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 12,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 15,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 25,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 25,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Leg Extensions": [
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 15,
+        "reps": 20,
+        "rest": null
+      }
+    ],
+    "Plank": [
+      {
+        "duration_sec": 45,
+        "rest": 2
+      },
+      {
+        "duration_sec": 45,
+        "rest": 2
+      },
+      {
+        "duration_sec": 45,
+        "rest": null
+      }
+    ]
+  },
+  "2025-05-30": {
+    "Deadlift": [
+      {
+        "weight": 20,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Bent-Over Row": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Seated Dumbbell Press": [
+      {
+        "weight": 6,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 12,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 12,
+        "reps": 8,
+        "rest": 1
+      },
+      {
+        "weight": 12,
+        "reps": 8,
+        "rest": 1
+      },
+      {
+        "weight": 12,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Dumbbell Flys": [
+      {
+        "weight": 6,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 12,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 12,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 12,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 12,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Pull-Ups": [
+      {
+        "weight": null,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 6,
+        "rest": null
+      }
+    ]
+  },
+  "2025-06-04": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": null
+      }
+    ],
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 30,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 30,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 30,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 30,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Leg Extensions": [
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": null
+      }
+    ],
+    "Calf Raises": [
+      {
+        "weight": 30,
+        "reps": 12,
+        "rest": 2
+      },
+      {
+        "weight": 30,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 30,
+        "reps": 12,
+        "rest": null
+      }
+    ]
+  },
+  "2025-06-07": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 15,
+        "rest": null
+      }
+    ],
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 15,
+        "rest": 3
+      },
+      {
+        "weight": 40,
+        "reps": 15,
+        "rest": 3
+      },
+      {
+        "weight": 40,
+        "reps": 15,
+        "rest": 3
+      },
+      {
+        "weight": 40,
+        "reps": 20,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Leg Extensions": [
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 15,
+        "rest": null
+      }
+    ],
+    "Plank": [
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": null
+      }
+    ]
+  },
+  "2025-06-12": {
+    "Deadlift": [
+      {
+        "weight": 20,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 3
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 3
+      },
+      {
+        "weight": 60,
+        "reps": 8,
+        "rest": 3
+      },
+      {
+        "weight": 60,
+        "reps": 8,
+        "rest": 3
+      },
+      {
+        "weight": 60,
+        "reps": 8,
+        "rest": 3
+      },
+      {
+        "weight": 60,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Bent-Over Row": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Seated Dumbbell Press": [
+      {
+        "weight": 7,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 14,
+        "reps": 8,
+        "rest": 1
+      },
+      {
+        "weight": 14,
+        "reps": 8,
+        "rest": 1
+      },
+      {
+        "weight": 14,
+        "reps": 8,
+        "rest": 1
+      },
+      {
+        "weight": 14,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Dumbbell Flys": [
+      {
+        "weight": 7,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Pull-Ups": [
+      {
+        "weight": null,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 5,
+        "rest": null
+      }
+    ]
+  },
+  "2025-06-29": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 3,
+        "rest": null
+      }
+    ],
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 3
+      },
+      {
+        "weight": 60,
+        "reps": 8,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 30,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Leg Extensions": [
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 20,
+        "rest": null
+      }
+    ],
+    "Calf Raises": [
+      {
+        "weight": 30,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": null
+      }
+    ]
+  },
+  "2025-07-03": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Leg Extensions": [
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 30,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 30,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 30,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Plank": [
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": null
+      }
+    ]
+  },
+  "2025-07-09": {
+    "Deadlift": [
+      {
+        "weight": 20,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": null
+      }
+    ],
+    "Bent-Over Row": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Seated Dumbbell Press": [
+      {
+        "weight": 7,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 16,
+        "reps": 6,
+        "rest": 1
+      },
+      {
+        "weight": 16,
+        "reps": 6,
+        "rest": 1
+      },
+      {
+        "weight": 16,
+        "reps": 6,
+        "rest": 1
+      },
+      {
+        "weight": 16,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Dumbbell Flys": [
+      {
+        "weight": 7,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Pull-Ups": [
+      {
+        "weight": null,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 6,
+        "rest": null
+      }
+    ]
+  },
+  "2025-07-13": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 4,
+        "rest": null
+      }
+    ],
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 8,
+        "rest": 3
+      },
+      {
+        "weight": 75,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 75,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 75,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 75,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 75,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 40,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Leg Extensions": [
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Calf Raises": [
+      {
+        "weight": 25,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 30,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 40,
+        "reps": 15,
+        "rest": null
+      }
+    ]
+  },
+  "2025-07-27": {
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 60,
+        "reps": 8,
+        "rest": 1
+      },
+      {
+        "weight": 75,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 75,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 75,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 75,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Bent-Over Barbell Row": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Close-Grip Bench Press": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Leg Curl": [
+      {
+        "weight": 15,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 35,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Plank": [
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": null
+      }
+    ]
+  },
+  "2025-08-02": {
+    "Deadlift": [
+      {
+        "weight": 20,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 12,
+        "rest": 3
+      },
+      {
+        "weight": 60,
+        "reps": 8,
+        "rest": 3
+      },
+      {
+        "weight": 80,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Incline Dumbbell Press": [
+      {
+        "weight": 12,
+        "reps": 12,
+        "rest": 2
+      },
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 45,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 45,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 45,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Bulgarian Split Squat": [
+      {
+        "weight": 10,
+        "reps_per_side": 3,
+        "rest": null
+      }
+    ],
+    "Dumbbell Lateral Raise": [
+      {
+        "weight": 7,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 7,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 7,
+        "reps": 15,
+        "rest": null
+      }
+    ],
+    "Hanging Leg Raise": [
+      {
+        "weight": null,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 15,
+        "rest": null
+      }
+    ]
+  },
+  "2025-08-11": {
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 40,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 80,
+        "reps": 6,
+        "rest": null
+      }
+    ],
+    "Romanian Deadlift": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Hyperextension": [
+      {
+        "weight": null,
+        "reps": 12,
+        "rest": 0.5
+      },
+      {
+        "weight": null,
+        "reps": 12,
+        "rest": 0.5
+      },
+      {
+        "weight": null,
+        "reps": 12,
+        "rest": null
+      }
+    ]
+  },
+  "2025-08-14": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": null
+      },
+      {
+        "notes": "partial ROM"
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 30,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Machine Shrugs": [
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 45,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 45,
+        "reps": 20,
+        "rest": null
+      }
+    ],
+    "Plank": [
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": null
+      }
+    ]
+  },
+  "2025-08-17": {
+    "Goblet Squat": [
+      {
+        "weight": 12,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 20,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 28,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 30,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 32,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Single-Leg Leg Press": [
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Hyperextension": [
+      {
+        "weight": 10,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Side Plank": [
+      {
+        "duration_sec": 20,
+        "rest": 2
+      },
+      {
+        "duration_sec": 20,
+        "rest": null
+      }
+    ],
+    "Foam Rolling": [
+      {
+        "duration_sec": 300,
+        "rest": null
+      }
+    ]
+  },
+  "2025-08-26": {
+    "Deadlift": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Dumbbell Bench Press": [
+      {
+        "weight": 10,
+        "reps": 8,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 55,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 55,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 55,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Hanging Leg Raise": [
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": null
+      }
+    ]
+  },
+  "2025-08-31": {
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 40,
+        "reps": 5,
+        "rest": 1
+      },
+      {
+        "weight": 60,
+        "reps": 3,
+        "rest": 1
+      },
+      {
+        "weight": 85,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 85,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 85,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 85,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Romanian Deadlift": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Hyperextension": [
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Bird Dog": [
+      {
+        "reps_per_side": 12,
+        "rest": null
+      }
+    ]
+  },
+  "2025-09-05": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 8,
+        "rest": null
+      },
+      {
+        "notes": "partial ROM"
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Machine Shrugs": [
+      {
+        "weight": 50,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 15,
+        "rest": null
+      }
+    ],
+    "Plank": [
+      {
+        "duration_sec": 40,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": null
+      }
+    ]
+  },
+  "2025-09-22": {
+    "Dumbbell Squat": [
+      {
+        "weight": 20,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Goblet Squat": [
+      {
+        "weight": 12,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 24,
+        "reps": 5,
+        "rest": 1
+      },
+      {
+        "weight": 32,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 32,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 32,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Single-Leg Leg Press": [
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Hyperextension": [
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Side Plank": [
+      {
+        "duration_sec": 30,
+        "rest": 2
+      },
+      {
+        "duration_sec": 30,
+        "rest": null
+      }
+    ],
+    "Foam Rolling": [
+      {
+        "duration_sec": 300,
+        "rest": null
+      }
+    ]
+  },
+  "2025-10-01": {
+    "Spider Stretch": [
+      {
+        "reps_per_side": 8,
+        "rest": null
+      }
+    ],
+    "Cat-Cow Stretch": [
+      {
+        "reps_per_side": 10,
+        "rest": null
+      }
+    ],
+    "Deadlift": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 50,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Dumbbell Bench Press": [
+      {
+        "weight": 12,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 22,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 22,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 22,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 60,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Hanging Leg Raise": [
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": null
+      }
+    ]
+  },
+  "2025-10-11": {
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Romanian Deadlift": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Hyperextension": [
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 15,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Bird Dog": [
+      {
+        "reps_per_side": 12,
+        "rest": 1
+      },
+      {
+        "reps_per_side": 12,
+        "rest": null
+      }
+    ]
+  },
+  "2025-11-08": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 4,
+        "rest": 4
+      },
+      {
+        "weight": 70,
+        "reps": 1,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Machine Shrugs": [
+      {
+        "weight": 50,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 15,
+        "rest": null
+      }
+    ],
+    "Plank": [
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": null
+      }
+    ]
+  },
+  "2025-11-14": {
+    "Dumbbell Squat": [
+      {
+        "weight": 24,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Goblet Squat": [
+      {
+        "weight": 12,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 26,
+        "reps": 5,
+        "rest": 1
+      },
+      {
+        "weight": 34,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 34,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 34,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Single-Leg Leg Press": [
+      {
+        "weight": 50,
+        "reps": 12,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Hyperextension": [
+      {
+        "weight": 20,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Side Plank": [
+      {
+        "duration_sec": 40,
+        "rest": 2
+      },
+      {
+        "duration_sec": 40,
+        "rest": null
+      }
+    ],
+    "Foam Rolling": [
+      {
+        "duration_sec": 300,
+        "rest": null
+      }
+    ]
+  },
+  "2025-11-18": {
+    "Spider Stretch": [
+      {
+        "reps_per_side": 8,
+        "rest": null
+      }
+    ],
+    "Cat-Cow Stretch": [
+      {
+        "reps_per_side": 10,
+        "rest": null
+      }
+    ],
+    "Deadlift": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 95,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 95,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 95,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 95,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Dumbbell Bench Press": [
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 24,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 24,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 24,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown (with straps)": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 60,
+        "reps": 8,
+        "rest": 1
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Hanging Leg Raise": [
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": null
+      }
+    ]
+  },
+  "2025-11-29": {
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 95,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 95,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 95,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 95,
+        "reps": 2,
+        "rest": null
+      }
+    ],
+    "Romanian Deadlift": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 55,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Hyperextension": [
+      {
+        "weight": 20,
+        "reps": 15,
+        "rest": 2
+      },
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": null
+      }
+    ],
+    "Bird Dog": [
+      {
+        "reps_per_side": 12,
+        "rest": 1
+      },
+      {
+        "reps_per_side": 12,
+        "rest": null
+      }
+    ]
+  },
+  "2025-12-03": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 40,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 6,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 70,
+        "reps": 4,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Machine Shrugs": [
+      {
+        "weight": 55,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 55,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 55,
+        "reps": 15,
+        "rest": null
+      }
+    ],
+    "Plank": [
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": null
+      }
+    ]
+  },
+  "2025-12-07": {
+    "Stationary Bike": [
+      {
+        "duration_sec": 240,
+        "rest": null
+      }
+    ],
+    "Dumbbell Squat": [
+      {
+        "weight": 26,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Goblet Squat": [
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 28,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 36,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 36,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 36,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Single-Leg Leg Press": [
+      {
+        "weight": 70,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Hyperextension": [
+      {
+        "weight": 25,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Side Plank": [
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": null
+      }
+    ],
+    "Foam Rolling": [
+      {
+        "duration_sec": 300,
+        "rest": null
+      }
+    ]
+  },
+  "2025-12-13": {
+    "Spider Stretch": [
+      {
+        "reps_per_side": 8,
+        "rest": null
+      }
+    ],
+    "Cat-Cow Stretch": [
+      {
+        "reps_per_side": 10,
+        "rest": null
+      }
+    ],
+    "Deadlift": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 100,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 100,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 100,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 100,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Dumbbell Bench Press": [
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 24,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 24,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 24,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 65,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 65,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 65,
+        "reps": 10,
+        "rest": 1
+      }
+    ],
+    "Hanging Leg Raise": [
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": null
+      }
+    ]
+  },
+  "2026-01-08": {
+    "Squats": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 100,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 100,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 100,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 100,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Romanian Deadlift": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Hyperextension": [
+      {
+        "weight": 20,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 20,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Bird Dog": [
+      {
+        "reps_per_side": 12,
+        "rest": 1
+      },
+      {
+        "reps_per_side": 12,
+        "rest": null
+      }
+    ]
+  },
+  "2026-01-18": {
+    "Bench Press": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 50,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 6,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown (with straps)": [
+      {
+        "weight": 20,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 65,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 65,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 65,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Machine Shrugs": [
+      {
+        "weight": 55,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 55,
+        "reps": 15,
+        "rest": 1
+      },
+      {
+        "weight": 55,
+        "reps": 15,
+        "rest": null
+      }
+    ],
+    "Plank": [
+      {
+        "duration_sec": 60,
+        "rest": 1
+      },
+      {
+        "duration_sec": 60,
+        "rest": 1
+      },
+      {
+        "duration_sec": 60,
+        "rest": null
+      }
+    ],
+    "Hanging Leg Raise": [
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 2
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": null
+      }
+    ]
+  },
+  "2026-02-15": {
+    "Stationary Bike": [
+      {
+        "duration_sec": 240,
+        "rest": null
+      }
+    ],
+    "Dumbbell Squat": [
+      {
+        "weight": 26,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Goblet Squat": [
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 28,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 36,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 36,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 36,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Single-Leg Leg Press": [
+      {
+        "weight": 70,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 70,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Hyperextension": [
+      {
+        "weight": 25,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 12,
+        "rest": 1
+      },
+      {
+        "weight": 25,
+        "reps": 12,
+        "rest": null
+      }
+    ],
+    "Side Plank": [
+      {
+        "duration_sec": 60,
+        "rest": 2
+      },
+      {
+        "duration_sec": 60,
+        "rest": null
+      }
+    ],
+    "Foam Rolling": [
+      {
+        "duration_sec": 300,
+        "rest": null
+      }
+    ]
+  },
+  "2026-06-05": {
+    "Spider Stretch": [
+      {
+        "reps_per_side": 8,
+        "rest": null
+      }
+    ],
+    "Cat-Cow Stretch": [
+      {
+        "reps_per_side": 10,
+        "rest": null
+      }
+    ],
+    "Deadlift": [
+      {
+        "weight": 20,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 60,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 80,
+        "reps": 3,
+        "rest": 2
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": 3
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": 2
+      },
+      {
+        "weight": 90,
+        "reps": 5,
+        "rest": null
+      }
+    ],
+    "Dumbbell Bench Press": [
+      {
+        "weight": 14,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 24,
+        "reps": 10,
+        "rest": 2
+      },
+      {
+        "weight": 22,
+        "reps": 8,
+        "rest": 2
+      },
+      {
+        "weight": 18,
+        "reps": 10,
+        "rest": null
+      }
+    ],
+    "Lat Pulldown": [
+      {
+        "weight": 20,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 10,
+        "rest": 1
+      },
+      {
+        "weight": 50,
+        "reps": 8,
+        "rest": null
+      }
+    ],
+    "Hanging Leg Raise": [
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": 1
+      },
+      {
+        "weight": null,
+        "reps": 20,
+        "rest": null
+      }
+    ]
+  }
+}

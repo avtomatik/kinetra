@@ -1,0 +1,21 @@
+[
+  {
+    "id": "bench_press_barbell",
+    "name": "Bench Press",
+    "aliases": [
+      "Barbell Bench Press",
+      "Bench Press"
+    ],
+    "category": "strength",
+    "equipment": ["barbell"],
+    "primary_muscles": ["chest","triceps"]
+  },
+  {
+    "id": "deadlift",
+    "name": "Deadlift",
+    "aliases": ["Conventional Deadlift"],
+    "category": "strength",
+    "equipment": ["barbell"],
+    "primary_muscles": ["posterior_chain"]
+  }
+]

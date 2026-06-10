@@ -1,1 +1,3 @@
-# kinetra
+**Kinetra** is a lightweight workout tracking application focused on structured strength training and progression tracking. It models workouts as hierarchical logs of exercises and sets, supporting both weighted and timed exercises. The goal is to provide a simple yet extensible system for recording training sessions, analyzing performance over time, and building consistent training habits.
+
+The project is designed with a clean domain-first architecture, starting with a minimal stack (FastAPI + SQLite) and a structured data model that can evolve into richer analytics and cross-platform clients.
